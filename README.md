@@ -3,7 +3,7 @@ MI API SE LLAMA Trabajo_Practica
 *Tuve algunas complicaciones en realizar la API ya que yo estaba capacitandome en laravel pero todavia no la habia utilizado en ningun proyecto. El miercoles recién le pude entender como realizar la API. 
 No pude realizar todo ya que me falto investigar como funciona el swagger, pero como ya usaba el postman les hice el documento en esa plataforma (ESTE ES MI DOCUMENTACION EN POSTMAN https://documenter.getpostman.com/view/13538640/Tzsik45S#096d24e3-0ab5-4377-b779-176ac637f139).
 
-*Tambien me falto el toquen.
+*Tambien me falto el token.
 
 *La vista index.html esta dentro de la carpeta View_index.
 
