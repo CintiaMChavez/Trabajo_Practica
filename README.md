@@ -1,3 +1,16 @@
+MI API SE LLAMA Trabajo_Practica
+
+*Tuve algunas complicaciones en realizar la API ya que yo estaba capacitandome en laravel pero todavia no la habia utilizado en ningun proyecto. El miercoles recién le pude entender como realizar la API. 
+No pude realizar todo ya que me falto investigar como funciona el swagger, pero como ya usaba el postman les hice el documento en esa plataforma (ESTE ES MI DOCUMENTACION EN POSTMAN https://documenter.getpostman.com/view/13538640/Tzsik45S#096d24e3-0ab5-4377-b779-176ac637f139).
+
+*Tambien me falto el toquen.
+
+*La vista index.html esta dentro de la carpeta View_index.
+
+*La base de datos esta fuera de las carpetas de laravel. Se llama tarea.sql.
+
+*El archivo .env git lo oculta. Yo le voy a pasar a Milagros por Mail o por Whatsapp.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -63,4 +76,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-ESTE ES MI DOCUMENTACION EN POSTMAN https://documenter.getpostman.com/view/13538640/Tzsik45S#84202cd0-4f69-40ae-994c-6fbbc7dfd87b
+
