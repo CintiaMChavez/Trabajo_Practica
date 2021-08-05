@@ -11,6 +11,8 @@ No pude realizar todo ya que me falto investigar como funciona el swagger, pero 
 
 *El archivo .env git lo oculta. Yo le voy a pasar a Milagros por Mail o por Whatsapp.
 
+Si ven el repositorio que dice Prueba_Tecnica ahi deje en como quedaria el codigo si fuera en version web. Lo hice con el framework codeigniter ya que ese es el framework que mas utilizo. Esta todo lo que me habian pedido pero en version web
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
