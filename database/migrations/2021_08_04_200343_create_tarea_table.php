@@ -13,7 +13,7 @@ class CreateTareaTable extends Migration
      */
     public function up()
     {
-        Schema::create('tarea', function (Blueprint $table) {
+        Schema::create('tarea_models', function (Blueprint $table) {
             $table->id();
             $table->string('titulo');
             $table->string('descripcion');
