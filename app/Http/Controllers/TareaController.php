@@ -52,7 +52,8 @@ class TareaController extends Controller
      */
     public function show($id)
     {
-        //
+        $tarea = TareaModel::where('id',$id)->get();
+        return $tarea;
     }
 
     /**

@@ -19,6 +19,7 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 Route::get('/tarea', 'App\Http\Controllers\TareaController@index'); //mostrar todos los registros
+Route::get('/tarea/{id}', 'App\Http\Controllers\TareaController@show'); //mostrar un registro dependiendo del id
 Route::post('/tarea', 'App\Http\Controllers\TareaController@store'); //crear un registro
 Route::put('/tarea/{id}', 'App\Http\Controllers\TareaController@update'); //actualizar un registro
 Route::delete('/tarea/{id}', 'App\Http\Controllers\TareaController@destroy'); //actualizar un registro
